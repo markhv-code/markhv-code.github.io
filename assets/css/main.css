@@ -124,7 +124,6 @@ input, select, textarea {
 
 	img#profile-pic {
 		height: 12rem;
-		width: 12em;
 		border-radius: 50%;
 		border: 2px solid white;
 	}
